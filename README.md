@@ -12,7 +12,7 @@ git clone https://github.com/oneilln/Firm-Level-Credit-Volatility-Forecasting.gi
 cd Firm-Level-Credit-Volatility-Forecasting/forecasting
 jupyter notebook
 ```
-Open each notebook in the order. Each is self-contained and reads from `../data/`. Restart the kernel and Run All to reproduce every table in Chapter 4 and Appendix D of the dissertation.
+Open each notebook in the order. Each is self-contained and reads from `../data/`. Restart the kernel and Run All to reproduce every table in Results & Analysis and Appendix of the dissertation.
 # Required packages
 •	pandas, numpy, scipy
 •	scikit-learn
